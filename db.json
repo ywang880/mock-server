@@ -1,0 +1,12 @@
+{
+	"objective": "learning",
+	"team_member": [{
+			"name": "Mike",
+			"role": "developer"
+		},
+		{
+			"name": "John",
+			"role": "devops"
+		}
+	]
+}
